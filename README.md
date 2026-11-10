@@ -28,8 +28,8 @@ As I continuously sharpen my skills across Blue Team disciplines, this portfolio
 | Lab / Case Name | Primary Domain | Difficulty | Documentation |
 | :--- | :--- | :--- | :--- |
 | **[Brutus](./brutus/)** | DFIR / Log Analysis | Very Easy | [README](./brutus/README.md) \| [PDF Report](./brutus/) |
-| **[WordpressWebForensics](./WordpressWebForensics/)** | Web Forensics / Incident Response | Easy | [README](./WordpressWebForensics/README.md) \| [PDF Report](./WordpressWebForensics/) |
-| **[Baggage](./Baggage/)** | SOC / Web Analysis | Easy | [README](./Baggage/README.md) \| [PDF Report](./Baggage/) |
+| **[WordpressWebForensics](./WordpressWebForensics/)** | Web Forensics / Incident Response | Very Easy | [README](./WordpressWebForensics/README.md) \| [PDF Report](./WordpressWebForensics/) |
+| **[Baggage](./Baggage/)** | SOC / Web Analysis | Very Easy | [README](./Baggage/README.md) \| [PDF Report](./Baggage/) |
 
 *(This table is updated continuously as new labs and Sherlocks are completed.)*
 
